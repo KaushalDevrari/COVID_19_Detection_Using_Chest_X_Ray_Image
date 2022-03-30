@@ -33,7 +33,7 @@ jsonschema==3.2.0
 jupyter_client==6.1.7
 jupyter_core==4.7.0
 jupyterlab_pygments==0.1.2
-keras==2.4.3
+keras==2.8.0
 keras-applications==1.0.8
 keras-preprocessing==1.1.0
 multidict==4.7.6
