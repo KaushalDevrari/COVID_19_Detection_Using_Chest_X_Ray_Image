@@ -23,8 +23,8 @@ google-auth==1.24.0
 google-auth-oauthlib==0.4.2
 google-pasta==0.2.0
 grpcio==1.31.0
-h5py==2.10.0
-hdf5==1.10.4
+h5py==3.6.0
+hdf5==1.10.6
 icc_rt==2019.0.0
 idna==2.10
 importlib-metadata==2.0.0
