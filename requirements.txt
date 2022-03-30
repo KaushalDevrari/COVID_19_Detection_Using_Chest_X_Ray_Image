@@ -24,9 +24,6 @@ google-auth-oauthlib==0.4.2
 google-pasta==0.2.0
 grpcio==1.31.0
 h5py==3.6.0
-hdf5==1.12.1
-icc_rt==2019.0.0
-idna==2.10
 importlib-metadata==2.0.0
 importlib_metadata==2.0.0
 intel-openmp==2020.2
@@ -54,7 +51,6 @@ m2w64-gcc-libgfortran==5.3.0
 m2w64-gcc-libs==5.3.0
 m2w64-gcc-libs-core==5.3.0
 m2w64-gmp==6.1.0
-m2w64-libwinpthread-git==5.0.0.4634.697f757
 markdown==3.3.3
 markupsafe==1.1.1
 mistune==0.8.4
