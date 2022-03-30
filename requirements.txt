@@ -37,14 +37,7 @@ keras==2.4.3
 keras-applications==1.0.8
 keras-preprocessing==1.1.0
 multidict==4.7.6
-nb_conda==2.2.1
-nb_conda_kernels==2.3.1
-nbclient==0.5.1
-nbconvert==6.0.7
-nbformat==5.1.2
-nest-asyncio==1.4.3
 numpy==1.19.2
-numpy-base==1.19.2
 oauthlib==3.1.0
 olefile==0.46
 openssl==1.1.1i
