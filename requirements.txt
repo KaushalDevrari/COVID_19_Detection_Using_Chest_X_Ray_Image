@@ -115,7 +115,7 @@ setuptools==51.3.3
 six==1.15.0
 sqlite==3.33.0
 tensorboard-cpu==2.3.0
-tensorflow-cpu-estimator 1.15.1
+tensorflow-cpu-estimator==1.15.1
 termcolor==1.1.0
 terminado==0.9.2
 testpath==0.4.4
