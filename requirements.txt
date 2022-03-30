@@ -35,7 +35,6 @@ jupyter_core==4.7.0
 jupyterlab_pygments==0.1.2
 keras==2.4.3
 keras-applications==1.0.8
-keras-base==2.4.3
 keras-preprocessing==1.1.0
 libpng==1.6.37
 libprotobuf==3.13.0.1
@@ -108,9 +107,6 @@ tk==8.6.10
 tornado==6.1
 traitlets==5.0.5
 urllib3==1.26.2
-vc==14.2
-vs2015_runtime==14.27.29016
-wcwidth==0.2.5
 webencodings==0.5.1
 werkzeug==1.0.1
 wheel==0.36.2
@@ -118,10 +114,4 @@ win_inet_pton==1.1.0
 wincertstore==0.2
 winpty==0.4.3
 wrapt==1.12.1
-xz==5.2.5
 yaml==0.2.5
-yarl==1.6.3
-zeromq==4.3.3
-zipp==3.4.0
-zlib==1.2.11
-zstd==1.4.5
