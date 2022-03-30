@@ -26,7 +26,6 @@ grpcio==1.31.0
 h5py==3.6.0
 importlib-metadata==2.0.0
 importlib_metadata==2.0.0
-intel-openmp==2020.2
 ipykernel==5.3.4
 ipython==7.19.0
 ipython_genutils==0.2.0
