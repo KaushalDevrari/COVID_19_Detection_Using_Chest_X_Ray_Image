@@ -36,11 +36,7 @@ jupyterlab_pygments==0.1.2
 keras==2.4.3
 keras-applications==1.0.8
 keras-preprocessing==1.1.0
-libpng==1.6.37
 libprotobuf==3.13.0.1
-libsodium==1.0.18
-libtiff==4.1.0
-lz4-c==1.9.2
 m2w64-gcc-libgfortran==5.3.0
 m2w64-gcc-libs==5.3.0
 m2w64-gcc-libs-core==5.3.0
