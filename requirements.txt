@@ -29,7 +29,6 @@ importlib_metadata==2.0.0
 ipykernel==5.3.4
 ipython==7.19.0
 ipython_genutils==0.2.0
-jpeg==9b
 jsonschema==3.2.0
 jupyter_client==6.1.7
 jupyter_core==4.7.0
